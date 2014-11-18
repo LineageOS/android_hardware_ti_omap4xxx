@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_d1c17530",
+        "filename": "ion/Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-18T08:59:59Z",
+      "side": 1,
+      "message": "Actually, shouldn\u0027t this be ifneq ($(BOARD_USE_CUSTOM_LIBION),true) ?",
+      "revId": "60acfed6a531d8ea7e4175b53bfca27c1e9f813d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
